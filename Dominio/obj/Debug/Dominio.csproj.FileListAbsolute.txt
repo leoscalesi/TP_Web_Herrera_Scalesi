@@ -22,3 +22,9 @@ C:\Users\R\Desktop\IT\Practicas C#\TPWinForms0705\Dominio\obj\Debug\Dominio.cspr
 C:\Users\R\Desktop\IT\Practicas C#\TPWinForms0705\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\R\Desktop\IT\Practicas C#\TPWinForms0705\Dominio\obj\Debug\Dominio.dll
 C:\Users\R\Desktop\IT\Practicas C#\TPWinForms0705\Dominio\obj\Debug\Dominio.pdb
+C:\Users\R\Desktop\IT\Practicas C#\TPWeb2905\Dominio\bin\Debug\Dominio.dll
+C:\Users\R\Desktop\IT\Practicas C#\TPWeb2905\Dominio\bin\Debug\Dominio.pdb
+C:\Users\R\Desktop\IT\Practicas C#\TPWeb2905\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\R\Desktop\IT\Practicas C#\TPWeb2905\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\IT\Practicas C#\TPWeb2905\Dominio\obj\Debug\Dominio.dll
+C:\Users\R\Desktop\IT\Practicas C#\TPWeb2905\Dominio\obj\Debug\Dominio.pdb
