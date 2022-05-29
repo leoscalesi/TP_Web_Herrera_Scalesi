@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32228.343
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPWinForms", "TPWinForms\TPWinForms.csproj", "{A50347B5-2720-4B92-BD34-D140B57BC442}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{250A95FC-7848-4674-8365-721D90754CFA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{BAA0A6D6-EDAF-4F1F-B8FE-BEE8DFA7234B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_Web_Herrera_Scalesi", "TP_Web_Herrera_Scalesi\TP_Web_Herrera_Scalesi.csproj", "{B33AD7FF-C5A6-48F5-B8DE-37C1B8EB4A3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{BAA0A6D6-EDAF-4F1F-B8FE-BEE8DFA7234B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAA0A6D6-EDAF-4F1F-B8FE-BEE8DFA7234B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAA0A6D6-EDAF-4F1F-B8FE-BEE8DFA7234B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B33AD7FF-C5A6-48F5-B8DE-37C1B8EB4A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33AD7FF-C5A6-48F5-B8DE-37C1B8EB4A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33AD7FF-C5A6-48F5-B8DE-37C1B8EB4A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33AD7FF-C5A6-48F5-B8DE-37C1B8EB4A3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
