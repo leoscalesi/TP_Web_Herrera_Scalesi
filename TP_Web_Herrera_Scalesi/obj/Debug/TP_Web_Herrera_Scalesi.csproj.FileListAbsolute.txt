@@ -154,3 +154,34 @@ C:\Users\R\Desktop\IT\Practicas C#\TPWeb2905\TP_Web_Herrera_Scalesi\obj\Debug\TP
 C:\Users\R\Desktop\IT\Practicas C#\TPWeb2905\TP_Web_Herrera_Scalesi\obj\Debug\TP_Web_Herrera_Scalesi.csproj.CopyComplete
 C:\Users\R\Desktop\IT\Practicas C#\TPWeb2905\TP_Web_Herrera_Scalesi\obj\Debug\TP_Web_Herrera_Scalesi.dll
 C:\Users\R\Desktop\IT\Practicas C#\TPWeb2905\TP_Web_Herrera_Scalesi\obj\Debug\TP_Web_Herrera_Scalesi.pdb
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\TP_Web_Herrera_Scalesi.dll.config
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\TP_Web_Herrera_Scalesi.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\TP_Web_Herrera_Scalesi.pdb
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\Dominio.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\Negocio.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\WebGrease.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\Dominio.pdb
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\Negocio.pdb
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\obj\Debug\TP_Web_Herrera_Scalesi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\obj\Debug\TP_Web_Herrera_Scalesi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\obj\Debug\TP_Web_Herrera_Scalesi.csproj.CopyComplete
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\obj\Debug\TP_Web_Herrera_Scalesi.dll
+C:\Users\user\Desktop\TP_WEb\TP_Web_Herrera_Scalesi\obj\Debug\TP_Web_Herrera_Scalesi.pdb
