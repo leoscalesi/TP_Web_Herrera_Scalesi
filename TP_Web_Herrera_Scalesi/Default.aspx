@@ -39,4 +39,11 @@
         </div>
     </div>
     -->
+
+    <div>          
+    
+          <h1>Mi carrito</h1>
+
+    </div>
+
 </asp:Content>

@@ -2,8 +2,13 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <!--<h2><%: Title %>.</h2>-->
-    <h1>Listado de Artículos</h1>
-
+    
+    <div>
+           
+        <h1>Listado de Artículos</h1>
+    
+    </div>
+    
     <asp:GridView style="display: none" runat="server" ID="dgvListadoArticulos"></asp:GridView>
 
     <div style="display: flex; width: 100%; flex-wrap:wrap;">
