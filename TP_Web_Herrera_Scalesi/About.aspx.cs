@@ -19,5 +19,10 @@ namespace TP_Web_Herrera_Scalesi
             dgvListadoArticulos.DataSource = listaArticulos;
             dgvListadoArticulos.DataBind();
         }
+
+        protected void btnAgregar_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Default.aspx", false);
+        }
     }
 }

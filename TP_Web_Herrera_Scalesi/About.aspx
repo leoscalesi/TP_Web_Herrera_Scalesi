@@ -21,7 +21,7 @@
                 <h3><%= item.Precio %></h3>
 
                 <div style="position: static; bottom: 0px;">
-                    <asp:Button Text="Agregar al carrito" runat="server" />
+                    <asp:Button ID="btnAgregar" Text="Agregar al carrito" runat="server" OnClick="btnAgregar_Click" />
                 </div>
             </div>
 
