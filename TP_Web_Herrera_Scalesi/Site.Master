@@ -57,7 +57,8 @@
                         <!--<li><a runat="server" href="~/">Inicio</a></li>-->
                         <li><a runat="server" href="~/About">Listado de articulos</a></li>
                         <!--<li><a runat="server" href="~/Contact">Contacto</a></li>-->
-                    </ul>
+                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAABDCAYAAADHyrhzAAAAAXNSR0IArs4c6QAAAv9JREFUeF7tmbuvTUEUh79bKdHpPBI1GiIkiFLi0QkFohZ0OpQqJEoJGqIQj0TpUeiR6BQ0ovP4C8hP9mYymXP3zD5rZss5ayW3uPvsPbPmO+u3Hvus4PaXwIqz+EfAYQTR4DAcRjo5xJGxDtgW3aprT5cht8Qw9gOvZhz8InBjkaGUwBCHA8DrRQVSCuMdsGNZYGwCTkeH1f8bg2sLGx05pVUw7gQw7iWALUSw5MBQNfkMrA1OvB74sRAERvQZd4FTwXNXgSvLCkO55FNweEWFkmkLkyz1ZVS3HJn0Tqik7qvuUXqDzZ1Uq25fAiNOpFUdixZXOa8eiSUw5J8SaVhmWwB5D2xvsVEpDCXNy4FjN4ELxo6q5T8frNlsDCiFkUqk0rNlmf0OqJz31qyMl8KQg3GZPWOY7Y8CjwMQmpZ1rYmNgRFPtpbzyhPgSHDyY4CuNbExMFKJ1GJekTQkkd5+RnKpDmQsjBrzihLx9crJeVWgY2HUmFfeRiW0SW8R0hkLI5VI55lX1EcIRm/NegsrGHGZVUOmMjvGJustrGBonXheGZv9J+stLGHEiVRwVFlKbNLewhJGqsyWvjCW3PTX29joKvkCkvfOk0D7BeN5ZR6nmvcW1pGhb1VdaPhacCyQGoNfti8WkaHNlDvUNMW/xuU6ooiQvLSO5dCXu/+f+6xgFG36v95sCWMNsAv4CnwsOPDeLho+FDxT5VYrGIe7MV7vHmQ52t8JPAC2dM/cB05WOWXmolYwUq8DNYo/W8WPN8Ce6PNzwK1M381vs4ARt+VhydW8Mst+JT7QiyO9LJrELGDI8W9AL5H+ICc6Gcw6mMpxXH0uAdcmIWFYTc4Ct4NDPASODxzqEPAIUOKVvQQOTgVC+1pFhtbaCuwGvgAvMg+1oQOg3uJ55jPVbrOEUc3JVgs7jIC0w3AYaeF5ZHhkeGQMFiWXicvEZeIyGSTgMnGZDAaJVxOXicvEZTJIwGXiMhkMEq8mLhOXictkkIDLxGUyGCReTVwm6SD5DeC8bUQZAVy4AAAAAElFTkSuQmCC"/>
+                        </ul>
                 </div>
             </div>
         </div>

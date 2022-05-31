@@ -35,3 +35,11 @@ textarea {
     background-color: #777;
     border-color: #fff
 }
+
+.navbar img {
+    display: block;
+    padding: 1px;
+    margin: auto;
+    position: relative;
+}
+
