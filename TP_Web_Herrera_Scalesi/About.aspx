@@ -20,6 +20,10 @@
                 <img src="<%=item.ImagenUrl %>" alt="img" height="70"/>
                 <h3><%= item.Precio %></h3>
 
+                <% Session.Add("descripcion", item.Descripcion); %>
+               
+                
+                
                 <div style="position: static; bottom: 0px;">
                     <asp:Button ID="btnAgregar" Text="Agregar al carrito" runat="server" OnClick="btnAgregar_Click" />
                 </div>

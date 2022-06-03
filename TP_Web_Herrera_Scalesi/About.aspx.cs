@@ -11,6 +11,8 @@ namespace TP_Web_Herrera_Scalesi
 {
     public partial class About : Page
     {
+      
+
         public List<Articulo> listaArticulos { get; set; }
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -22,7 +24,9 @@ namespace TP_Web_Herrera_Scalesi
 
         protected void btnAgregar_Click(object sender, EventArgs e)
         {
-            Response.Redirect("Default.aspx", false);
+
+            Response.Redirect("Default.aspx");
+            
         }
     }
 }

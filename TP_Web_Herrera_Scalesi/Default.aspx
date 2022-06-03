@@ -43,9 +43,17 @@
     <div>          
     
           <h1>Mi carrito</h1>
-
+        
     </div>
 
 
+    
+    <div>          
+        
+        <asp:Label ID="lblNombre" runat="server" Text=""></asp:Label>
+    
+    </div>
+
+   
 
 </asp:Content>
