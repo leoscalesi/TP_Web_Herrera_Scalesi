@@ -16,10 +16,12 @@ namespace TP_Web_Herrera_Scalesi
         public List<Articulo> listaArticulos { get; set; }
         protected void Page_Load(object sender, EventArgs e)
         {
-            ArticuloNegocio articuloNegocio = new ArticuloNegocio();
-            listaArticulos = articuloNegocio.listar();
-            dgvListadoArticulos.DataSource = listaArticulos;
-            dgvListadoArticulos.DataBind();
+            //if (!IsPostBack)
+                ArticuloNegocio articuloNegocio = new ArticuloNegocio();
+                listaArticulos = articuloNegocio.listar();
+                dgvListadoArticulos.DataSource = listaArticulos;
+                dgvListadoArticulos.DataBind();
+
         }
 
         protected void btnAgregar_Click(object sender, EventArgs e)
@@ -27,6 +29,25 @@ namespace TP_Web_Herrera_Scalesi
 
             Response.Redirect("Default.aspx");
             
+        }
+
+        protected void btnFiltro_Click(object sender, EventArgs e)
+        {
+            List<Articulo> listaFiltrada;
+            string filtro = txtFiltro.Text;
+            dgvListadoArticulos.DataSource = null;
+            if (filtro != "")
+            {
+                listaArticulos = listaArticulos.FindAll(x => x.Nombre == filtro);
+            }
+
+            else 
+            {
+                listaArticulos = listaArticulos;
+            }
+
+            
+            dgvListadoArticulos.DataSource = listaArticulos;
         }
     }
 }

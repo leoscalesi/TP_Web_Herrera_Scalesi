@@ -48,10 +48,16 @@
 
 
     
-    <div>          
+    <div style="height: 250px; width: 150px; padding: 10px; border-left: solid 3px; padding: 10px; margin: 10px">          
+        <h5><asp:Label ID="lblNombre" runat="server" Text=""></asp:Label></h5>
+        <h4><asp:Label ID="lblDescripcion" runat="server" Text=""></asp:Label></h4>
+        <h4><asp:Label ID="lblCodigo" runat="server" Text=""></asp:Label></h4>
+        <img src="<%= imagenUrl %>" alt="img" height="70"/>
+        <h4><asp:Label ID="lblPrecio" runat="server" Text=""></asp:Label></h4>
+
+
+
         
-        <asp:Label ID="lblNombre" runat="server" Text=""></asp:Label>
-    
     </div>
 
    
